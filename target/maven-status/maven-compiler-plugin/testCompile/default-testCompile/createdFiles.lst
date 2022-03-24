@@ -1,0 +1,17 @@
+com\qa\pages\RediffPages.class
+com\qa\testscripts\TC_JavaScriptExecutorDemo_001.class
+com\qa\testscripts\TC_Amazon_001.class
+com\qa\testscripts\TC_DemoFrames_001.class
+com\qa\pages\AmazonPages.class
+com\qa\testscripts\TC_ScreenshotDemo_001.class
+com\qa\testscripts\TC_ActionsDemo_001.class
+com\qa\testscripts\TC_Amazon_005.class
+com\qa\utilities\ExcelUtility.class
+com\qa\pages\CitibankPages.class
+com\qa\testscripts\TC_Citibank_001.class
+com\qa\testscripts\TC_RediffAlerts_001.class
+com\qa\testscripts\TC_Amazon_003.class
+com\qa\testscripts\TC_Amazon_004.class
+com\qa\testscripts\TestBase.class
+com\qa\testscripts\TC_Amazon_002.class
+com\qa\utilities\Reporting.class
